@@ -1,0 +1,7 @@
+lxml
+scrapy
+beautifulsoup4
+pymongo
+pillow
+requests
+python-dateutil
